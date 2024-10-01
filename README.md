@@ -1,4 +1,4 @@
-Hello, World! 🌍👩‍💻
+Hello, World! 🌍👩‍💻👋
 
 
 I’m a coding enthusiast and part-time chocolate connoisseur, diving deep into the world of Software Engineering! When I'm not busy crafting user-friendly apps like Silesua, you can find me dreaming up design ideas or mentoring the next generation of tech-savvy women at She Codes.
