@@ -7,6 +7,3 @@ I have a knack for turning chocolate into code ☕💻 and enjoy exploring new t
 
 Feel free to browse my repositories, leave a star ⭐, or just say hi!
 
-
-Tech Stacks 
-<img src="{https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white}" />
