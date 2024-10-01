@@ -6,3 +6,7 @@ I’m a coding enthusiast and part-time chocolate connoisseur, diving deep into 
 I have a knack for turning chocolate into code ☕💻 and enjoy exploring new technologies—especially anything that helps create seamless user experiences. One line of code at a time! 🌈🚀
 
 Feel free to browse my repositories, leave a star ⭐, or just say hi!
+
+
+Tech Stacks 
+<img src="{https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white}" />
